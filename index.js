@@ -32,7 +32,7 @@ function makeInt(n){
 }
 
 function preserveDecimal(n) {
-  return preserveDecimal(n)
+  return preserveFloat(n)
 }  
 
 
