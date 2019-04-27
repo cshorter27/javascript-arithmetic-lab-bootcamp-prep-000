@@ -35,7 +35,7 @@ function preserveDecimal(n) {
   return parseInt(n)
 }  
 
- function preserveDecimal(n) {
+ function preserveDecimal(NaN) {
   return parseInt(NaN)
 }  
 
