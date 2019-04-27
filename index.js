@@ -36,7 +36,7 @@ function preserveDecimal(n) {
 }  
 
  function preserveDecimal(NaN) {
-  return parseInt(NaN)
+  return parseFloat(NaN)
 }  
 
 
