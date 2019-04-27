@@ -35,8 +35,5 @@ function preserveDecimal(n) {
   return preserveDecimal(n)
 }  
 
- function preserveDecimal(n) {
-  return preserveDecimal(NaN)
-}  
 
 
