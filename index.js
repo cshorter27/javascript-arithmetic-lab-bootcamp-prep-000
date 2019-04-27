@@ -32,11 +32,11 @@ function makeInt(n){
 }
 
 function preserveDecimal(n) {
-  return preserveDecimal(n)
+  return parseDecimal(n)
 }  
 
  function preserveDecimal(n) {
-  return preserveDecimal(NaN)
+  return parseDecimalDecimal(NaN)
 }  
 
 
