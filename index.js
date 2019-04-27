@@ -32,10 +32,13 @@ function makeInt(n){
 }
 
 function preserveDecimal(n) {
-  return perserveDecimal(n)
+  return preserveDecimal(n)
 }  
 
- 
+ function preserveDecimal(n) {
+  return preserveDecimal(n)
+}  
+
 
 describe('preserveDecimal(n)', function() {
   it('preserves n\'s decimals (it parses n as a floating point number) and returns the parsed number', function() {
